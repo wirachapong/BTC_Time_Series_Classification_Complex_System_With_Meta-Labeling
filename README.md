@@ -16,8 +16,6 @@ BTCTimeSeriesClassificationComplexSystem/
   main.ipynb          # End-to-end training and evaluation notebook
   requirements.txt    # Python dependencies
   .gitignore
-  src/                # Source modules (reserved)
-  reports/            # Saved outputs and figures and the main thesis file
   data/
     README.md         # Data dictionary
     sample.csv        # First 500 rows for quick inspection
